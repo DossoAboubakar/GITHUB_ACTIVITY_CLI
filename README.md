@@ -2,7 +2,8 @@
 # GitHub Repository Data Fetcher
 
 This Python script retrieves information from a GitHub repository via the GitHub API. By providing a username, repository name, and data type (`commits`, `events`, or `issues`), the script automatically initiates GitHub CLI authentication and displays the results in JSON format in the console.
-
+## PROJECT URL
+https://roadmap.sh/projects/github-user-activity
 ## Prerequisites
 
 Before using this script, make sure you have the following installed:
